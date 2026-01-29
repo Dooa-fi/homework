@@ -1,0 +1,1 @@
+# Just open this repo and run index.html from basic folder
